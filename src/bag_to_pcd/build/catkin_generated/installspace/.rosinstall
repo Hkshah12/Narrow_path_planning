@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/haard/catkin_workspace/src/bag_to_pcd/install/setup.sh

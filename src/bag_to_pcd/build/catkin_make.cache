@@ -1,0 +1,2 @@
+
+-DCATKIN_DEVEL_PREFIX=/home/haard/catkin_workspace/src/bag_to_pcd/devel -DCMAKE_INSTALL_PREFIX=/home/haard/catkin_workspace/src/bag_to_pcd/install -G Unix Makefiles

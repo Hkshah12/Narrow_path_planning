@@ -1,0 +1,3 @@
+[submodule "elevation_mapping"]
+	path = elevation_mapping
+	url = https://github.com/ANYbotics/elevation_mapping.git
